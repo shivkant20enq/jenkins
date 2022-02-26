@@ -1,5 +1,5 @@
 
 print("Hello sir")
 
-# t=input()
-# print(t)
+t=input()
+print(t)
